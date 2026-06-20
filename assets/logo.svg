@@ -1,0 +1,13 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Auroom Clean</title>
+  <desc id="desc">Auroom Clean internal calculator logo</desc>
+  <rect width="160" height="160" rx="38" fill="#0F1117"/>
+  <rect x="14" y="14" width="132" height="132" rx="30" fill="url(#a)" fill-opacity="0.16" stroke="url(#b)" stroke-width="2"/>
+  <path d="M79.8 34C92.7 53.1 110 67.6 110 91.6C110 110.2 96.4 126 79.8 126C63.1 126 50 110.2 50 91.6C50 67.6 66.9 53.1 79.8 34Z" fill="url(#c)"/>
+  <path d="M64 94.5C70.2 104.2 86.6 108.1 97 92" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="a" x1="20" y1="20" x2="140" y2="140" gradientUnits="userSpaceOnUse"><stop stop-color="#4F8CFF"/><stop offset="1" stop-color="#39D98A"/></linearGradient>
+    <linearGradient id="b" x1="27" y1="22" x2="135" y2="138" gradientUnits="userSpaceOnUse"><stop stop-color="#4F8CFF"/><stop offset="1" stop-color="#39D98A"/></linearGradient>
+    <linearGradient id="c" x1="50" y1="34" x2="121" y2="113" gradientUnits="userSpaceOnUse"><stop stop-color="#4F8CFF"/><stop offset="1" stop-color="#39D98A"/></linearGradient>
+  </defs>
+</svg>
